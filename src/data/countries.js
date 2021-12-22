@@ -1,4 +1,4 @@
-export const cities = [
+export const countries = [
   'Afghanistan',
   'Åland Islands',
   'Albania',
